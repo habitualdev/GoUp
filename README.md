@@ -1,0 +1,2 @@
+# GoUp
+Automatic golang updater
